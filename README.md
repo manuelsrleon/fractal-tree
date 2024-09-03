@@ -4,13 +4,14 @@
 This is a quick and dirty little Python script that spawns a tkinter window with a canvas that draws a fractal tree with a terminally recursive function. It is fun to mess around with.
 
 ## Controls
-`Mouse`: It controls both height and branch angle of the tree. Vertical movement controls the individual length of the branches, and horizontal movement controls the angle of said branches.
-`Q,A`: Controls the branch line thickness
+`Mouse`: It controls both height and branch angle of the tree. Vertical movement controls the individual length of the branches, and horizontal movement controls the angle of said branches.  
+`Q,A`: Controls the branch line thickness  
 `W,S`: Controls the factor by which successive branches are lengthened or shortened. 
-`Arrow up,Arrow down`: They control the number of recursion levels of the tree. **WARNING:** It can get very slow fast, but if you feel like having a space heater in the cold it might not be a bad idea.
-`Arrow left, Arrow right`: They switch the color palette of the tree.
+`Arrow up,Arrow down`: They control the number of recursion levels of the tree.  
+**WARNING:** It can get very slow fast, but if you feel like having a space heater in the cold it might not be a bad idea.  
+`Arrow left, Arrow right`: They switch the color palette of the tree.  
 
-Hint: At a specific shortening factor, recursion depth, and color palette you can get a beautiful 🌸cherry blossom tree🌸
+**HINT:** At a specific shortening factor, recursion depth, and color palette you can get a beautiful 🌸cherry blossom tree🌸
 
 ## Usage
 `pip install requirements.txt`
