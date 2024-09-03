@@ -12,7 +12,8 @@ This is a quick and dirty little Python script that spawns a tkinter window with
 `Arrow left, Arrow right`: They switch the color palette of the tree.  
 
 **HINT:** At a specific shortening factor, recursion depth, and color palette you can get a beautiful 🌸cherry blossom tree🌸
-
+## Requirements
+A little fractal sun, a little fractal water and some nutritious fractal earth :).
 ## Usage
 `pip install requirements.txt`
 `python3 fractal_tree.py`
