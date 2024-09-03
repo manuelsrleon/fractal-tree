@@ -1,7 +1,7 @@
 # fractal-tree
 
 
-This is a quick and dirty little Python script that spawns a tkinter window with a canvas that draws a fractal tree with a terminally recursive function. It is fun to mess around with.
+This is a quick and dirty little Python script that spawns a tkinter window with a canvas that draws a fractal tree with a terminally recursive function. It was inspired by p5js' version of Daniel Schiffman's recursive tree. It is fun to mess around with. 
 
 ## Controls
 `Mouse`: It controls both height and branch angle of the tree. Vertical movement controls the individual length of the branches, and horizontal movement controls the angle of said branches.  
@@ -13,7 +13,7 @@ This is a quick and dirty little Python script that spawns a tkinter window with
 
 **HINT:** At a specific shortening factor, recursion depth, and color palette you can get a beautiful 🌸cherry blossom tree🌸
 ## Requirements
-A little fractal sun, a little fractal water and some nutritious fractal earth :).
+A little fractal sun, a little fractal water and some nutritious fractal soil :)
 ## Usage
 `pip install requirements.txt`
 `python3 fractal_tree.py`
